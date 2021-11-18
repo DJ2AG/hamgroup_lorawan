@@ -2,7 +2,6 @@
 - Webseite
 
         [LoRaWAn](https://www.p37.de/LoRaWAN)
-Dummy [Nur ein Dummy](https://www.google.de)
 
 - Github
 
